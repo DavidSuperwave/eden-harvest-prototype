@@ -1,0 +1,230 @@
+[
+  {
+    "transition": "b2d30a2fc9f74c95",
+    "status": "unresolved",
+    "coverage": "not-sampled-discovery",
+    "implemented_keyframe_records": 0,
+    "unmatched_records": 0,
+    "limitations": [
+      "Discovery captures settled states; detailed transition pass required"
+    ]
+  },
+  {
+    "transition": "89f5fa8dc911421a",
+    "status": "unresolved",
+    "coverage": "not-sampled-discovery",
+    "implemented_keyframe_records": 0,
+    "unmatched_records": 0,
+    "limitations": [
+      "Discovery captures settled states; detailed transition pass required"
+    ]
+  },
+  {
+    "transition": "c5170ab520ab40a0",
+    "status": "unresolved",
+    "coverage": "not-sampled-discovery",
+    "implemented_keyframe_records": 0,
+    "unmatched_records": 0,
+    "limitations": [
+      "Discovery captures settled states; detailed transition pass required"
+    ]
+  },
+  {
+    "transition": "de2dcc46f3b94572",
+    "status": "unresolved",
+    "coverage": "not-sampled-discovery",
+    "implemented_keyframe_records": 0,
+    "unmatched_records": 0,
+    "limitations": [
+      "Discovery captures settled states; detailed transition pass required"
+    ]
+  },
+  {
+    "transition": "61d01b6b1ce64f16",
+    "status": "unresolved",
+    "coverage": "not-sampled-discovery",
+    "implemented_keyframe_records": 0,
+    "unmatched_records": 0,
+    "limitations": [
+      "Discovery captures settled states; detailed transition pass required"
+    ]
+  },
+  {
+    "transition": "4a36d0c4b821440f",
+    "status": "unresolved",
+    "coverage": "not-sampled-discovery",
+    "implemented_keyframe_records": 0,
+    "unmatched_records": 0,
+    "limitations": [
+      "Discovery captures settled states; detailed transition pass required"
+    ]
+  },
+  {
+    "transition": "f4120831e3974a64",
+    "status": "unresolved",
+    "coverage": "not-sampled-discovery",
+    "implemented_keyframe_records": 0,
+    "unmatched_records": 0,
+    "limitations": [
+      "Discovery captures settled states; detailed transition pass required"
+    ]
+  },
+  {
+    "transition": "280902d5ff4e4492",
+    "status": "unresolved",
+    "coverage": "not-sampled-discovery",
+    "implemented_keyframe_records": 0,
+    "unmatched_records": 0,
+    "limitations": [
+      "Discovery captures settled states; detailed transition pass required"
+    ]
+  },
+  {
+    "transition": "46ecce503b5740a9",
+    "status": "unresolved",
+    "coverage": "not-sampled-discovery",
+    "implemented_keyframe_records": 0,
+    "unmatched_records": 0,
+    "limitations": [
+      "Discovery captures settled states; detailed transition pass required"
+    ]
+  },
+  {
+    "transition": "71a08e69d8f3461b",
+    "status": "unresolved",
+    "coverage": "not-sampled-discovery",
+    "implemented_keyframe_records": 0,
+    "unmatched_records": 0,
+    "limitations": [
+      "Discovery captures settled states; detailed transition pass required"
+    ]
+  },
+  {
+    "transition": "c1991fa6965643ea",
+    "status": "unresolved",
+    "coverage": "not-sampled-discovery",
+    "implemented_keyframe_records": 0,
+    "unmatched_records": 0,
+    "limitations": [
+      "Discovery captures settled states; detailed transition pass required"
+    ]
+  },
+  {
+    "transition": "99f5b7090dcb4cdb",
+    "status": "unresolved",
+    "coverage": "not-sampled-discovery",
+    "implemented_keyframe_records": 0,
+    "unmatched_records": 0,
+    "limitations": [
+      "Discovery captures settled states; detailed transition pass required"
+    ]
+  },
+  {
+    "transition": "c417f7a57e7f48d3",
+    "status": "unresolved",
+    "coverage": "not-sampled-discovery",
+    "implemented_keyframe_records": 0,
+    "unmatched_records": 0,
+    "limitations": [
+      "Discovery captures settled states; detailed transition pass required"
+    ]
+  },
+  {
+    "transition": "a2bbfebae6f24a07",
+    "status": "unresolved",
+    "coverage": "not-sampled-discovery",
+    "implemented_keyframe_records": 0,
+    "unmatched_records": 0,
+    "limitations": [
+      "Discovery captures settled states; detailed transition pass required"
+    ]
+  },
+  {
+    "transition": "0b7a8efad8024499",
+    "status": "unresolved",
+    "coverage": "not-sampled-discovery",
+    "implemented_keyframe_records": 0,
+    "unmatched_records": 0,
+    "limitations": [
+      "Discovery captures settled states; detailed transition pass required"
+    ]
+  },
+  {
+    "transition": "5ee1efd12904432a",
+    "status": "unresolved",
+    "coverage": "not-sampled-discovery",
+    "implemented_keyframe_records": 0,
+    "unmatched_records": 0,
+    "limitations": [
+      "Discovery captures settled states; detailed transition pass required"
+    ]
+  },
+  {
+    "transition": "9b94dfb3beb64ea4",
+    "status": "unresolved",
+    "coverage": "not-sampled-discovery",
+    "implemented_keyframe_records": 0,
+    "unmatched_records": 0,
+    "limitations": [
+      "Discovery captures settled states; detailed transition pass required"
+    ]
+  },
+  {
+    "transition": "b421751128f24a27",
+    "status": "unresolved",
+    "coverage": "not-sampled-discovery",
+    "implemented_keyframe_records": 0,
+    "unmatched_records": 0,
+    "limitations": [
+      "Discovery captures settled states; detailed transition pass required"
+    ]
+  },
+  {
+    "transition": "50a4c5d798224414",
+    "status": "observed",
+    "coverage": "sampled",
+    "implemented_keyframe_records": 8,
+    "unmatched_records": 6,
+    "limitations": [
+      "Bounded sample window; perpetual motion is not awaited.",
+      "Closed shadow roots and inaccessible frames cannot be inspected.",
+      "Sampled trajectories do not identify exact spring parameters."
+    ]
+  },
+  {
+    "transition": "547bb80a3b7a42d9",
+    "status": "observed",
+    "coverage": "sampled",
+    "implemented_keyframe_records": 9,
+    "unmatched_records": 6,
+    "limitations": [
+      "Bounded sample window; perpetual motion is not awaited.",
+      "Closed shadow roots and inaccessible frames cannot be inspected.",
+      "Sampled trajectories do not identify exact spring parameters."
+    ]
+  },
+  {
+    "transition": "5812ee8901554c3f",
+    "status": "observed",
+    "coverage": "sampled",
+    "implemented_keyframe_records": 5,
+    "unmatched_records": 181,
+    "limitations": [
+      "Bounded sample window; perpetual motion is not awaited.",
+      "Closed shadow roots and inaccessible frames cannot be inspected.",
+      "Sampled trajectories do not identify exact spring parameters."
+    ]
+  },
+  {
+    "transition": "396cbf155fb64d62",
+    "status": "observed",
+    "coverage": "sampled",
+    "implemented_keyframe_records": 9,
+    "unmatched_records": 57,
+    "limitations": [
+      "Bounded sample window; perpetual motion is not awaited.",
+      "Closed shadow roots and inaccessible frames cannot be inspected.",
+      "Sampled trajectories do not identify exact spring parameters."
+    ]
+  }
+]

@@ -1,0 +1,449 @@
+{
+  "run": "acab5f68226f",
+  "status": "visual-rebuild-ready-for-review-fidelity-partial",
+  "prototype_content_hash": "ba4f63703e77baa7c21182badef5dad1f5789ba4b5e962a38cc25d5c49dc972c",
+  "coverage": {
+    "routes": 5,
+    "states": 21,
+    "captured_controls": 651,
+    "implemented": 111,
+    "excluded": 0,
+    "unresolved": 540
+  },
+  "dimensions": {
+    "visual": {
+      "status": "fail",
+      "checks": {
+        "pass": 29283,
+        "inconclusive": 2491,
+        "fail": 4214
+      },
+      "human_approval": "Separate exact-content-hash and scope record required"
+    },
+    "interaction": {
+      "status": "fail",
+      "checks": {
+        "pass": 8441,
+        "inconclusive": 651,
+        "fail": 253
+      }
+    },
+    "motion": {
+      "status": "inconclusive",
+      "checks": {
+        "inconclusive": 41
+      }
+    }
+  },
+  "navigation_consequences": {
+    "pass": 41
+  },
+  "mismatches": {
+    "paddingRight": 119,
+    "marginTop": 78,
+    "paddingLeft": 114,
+    "gap": 47,
+    "rowGap": 47,
+    "columnGap": 47,
+    "geometry-y": 446,
+    "marginLeft": 204,
+    "geometry-w": 633,
+    "geometry-h": 404,
+    "color": 69,
+    "borderColor": 69,
+    "paddingTop": 84,
+    "paddingBottom": 84,
+    "geometry-x": 748,
+    "role": 87,
+    "disabled": 17,
+    "checked": 17,
+    "fontSize": 220,
+    "lineHeight": 307,
+    "expanded": 56,
+    "fontWeight": 173,
+    "borderRadius": 236,
+    "letterSpacing": 68,
+    "selected": 61,
+    "boxShadow": 17,
+    "focused": 10,
+    "expected visible control has no visible mapped target": 5
+  },
+  "benchmark": {
+    "baseline": {
+      "median_seconds": 4.148058874998242,
+      "snapshots": 13,
+      "round_trips": 70
+    },
+    "release": {
+      "median_seconds": 3.9672814999939874,
+      "snapshots": 5,
+      "round_trips": 54
+    },
+    "same_control_coverage": true,
+    "trial_actions": 4,
+    "method": "One warmup and three measured detailed-motion trials per version; identical fixture, viewport and four local actions. No provider latency included."
+  },
+  "jobs": {
+    "claim:complete": 79,
+    "controls:complete": 70
+  },
+  "provider_models": [
+    "jev-1.13.0"
+  ],
+  "job_retries": 0,
+  "live_typesafe_match": "e1928fd56c6d",
+  "repair_cycles_completed": 2,
+  "human_visual_approval": false,
+  "backend_implemented": false,
+  "match_element_results": {
+    "fail": 20,
+    "inconclusive": 13,
+    "pass": 7
+  },
+  "match_failed_properties": {
+    "boxShadow": 1,
+    "paddingTop": 2,
+    "paddingRight": 3,
+    "paddingBottom": 2,
+    "paddingLeft": 3,
+    "marginTop": 3,
+    "marginBottom": 1,
+    "marginLeft": 6,
+    "geometry-x": 8,
+    "geometry-y": 8,
+    "geometry-w": 6,
+    "geometry-h": 6,
+    "gap": 1,
+    "rowGap": 1,
+    "columnGap": 1,
+    "color": 1,
+    "borderColor": 1
+  },
+  "verification_ref": "8e7e730cea48473a",
+  "rendered_control_occurrences": 452,
+  "responsive_checks": [
+    {
+      "width": 1440,
+      "height": 900,
+      "documentWidth": 1440,
+      "mainWidth": 1172,
+      "contentWidth": 1172,
+      "mainX": 268,
+      "heading": "Welcome to Eden",
+      "buttons": 39,
+      "geometricNodes": 0,
+      "fontReady": true,
+      "route": "home",
+      "pass": true
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "documentWidth": 1440,
+      "mainWidth": 1172,
+      "contentWidth": 1172,
+      "mainX": 268,
+      "heading": "All items",
+      "buttons": 38,
+      "geometricNodes": 0,
+      "fontReady": true,
+      "route": "all-items",
+      "pass": true
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "documentWidth": 1440,
+      "mainWidth": 1172,
+      "contentWidth": 1172,
+      "mainX": 268,
+      "heading": "Discover",
+      "buttons": 53,
+      "geometricNodes": 0,
+      "fontReady": true,
+      "route": "discover",
+      "pass": true
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "documentWidth": 1440,
+      "mainWidth": 1172,
+      "contentWidth": 1172,
+      "mainX": 268,
+      "heading": "Build and sellresearchers, thoughtpartners, and agents",
+      "buttons": 31,
+      "geometricNodes": 0,
+      "fontReady": true,
+      "route": "custom-ai",
+      "pass": true
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "documentWidth": 1440,
+      "mainWidth": 1172,
+      "contentWidth": 1172,
+      "mainX": 268,
+      "heading": "Where do we start?",
+      "buttons": 34,
+      "geometricNodes": 0,
+      "fontReady": true,
+      "route": "chat",
+      "pass": true
+    },
+    {
+      "width": 1291,
+      "height": 691,
+      "documentWidth": 1291,
+      "mainWidth": 1023,
+      "contentWidth": 1023,
+      "mainX": 268,
+      "heading": "Welcome to Eden",
+      "buttons": 39,
+      "geometricNodes": 0,
+      "fontReady": true,
+      "route": "home",
+      "pass": true
+    },
+    {
+      "width": 1291,
+      "height": 691,
+      "documentWidth": 1291,
+      "mainWidth": 1023,
+      "contentWidth": 1023,
+      "mainX": 268,
+      "heading": "All items",
+      "buttons": 38,
+      "geometricNodes": 0,
+      "fontReady": true,
+      "route": "all-items",
+      "pass": true
+    },
+    {
+      "width": 1291,
+      "height": 691,
+      "documentWidth": 1291,
+      "mainWidth": 1023,
+      "contentWidth": 1023,
+      "mainX": 268,
+      "heading": "Discover",
+      "buttons": 53,
+      "geometricNodes": 0,
+      "fontReady": true,
+      "route": "discover",
+      "pass": true
+    },
+    {
+      "width": 1291,
+      "height": 691,
+      "documentWidth": 1291,
+      "mainWidth": 1023,
+      "contentWidth": 1023,
+      "mainX": 268,
+      "heading": "Build and sellresearchers, thoughtpartners, and agents",
+      "buttons": 31,
+      "geometricNodes": 0,
+      "fontReady": true,
+      "route": "custom-ai",
+      "pass": true
+    },
+    {
+      "width": 1291,
+      "height": 691,
+      "documentWidth": 1291,
+      "mainWidth": 1023,
+      "contentWidth": 1023,
+      "mainX": 268,
+      "heading": "Where do we start?",
+      "buttons": 34,
+      "geometricNodes": 0,
+      "fontReady": true,
+      "route": "chat",
+      "pass": true
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "documentWidth": 390,
+      "mainWidth": 390,
+      "contentWidth": 390,
+      "mainX": 0,
+      "heading": "Welcome to Eden",
+      "buttons": 17,
+      "geometricNodes": 0,
+      "fontReady": true,
+      "route": "home",
+      "pass": true
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "documentWidth": 390,
+      "mainWidth": 390,
+      "contentWidth": 390,
+      "mainX": 0,
+      "heading": "All items",
+      "buttons": 16,
+      "geometricNodes": 0,
+      "fontReady": true,
+      "route": "all-items",
+      "pass": true
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "documentWidth": 390,
+      "mainWidth": 390,
+      "contentWidth": 390,
+      "mainX": 0,
+      "heading": "Discover",
+      "buttons": 31,
+      "geometricNodes": 0,
+      "fontReady": true,
+      "route": "discover",
+      "pass": true
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "documentWidth": 390,
+      "mainWidth": 390,
+      "contentWidth": 390,
+      "mainX": 0,
+      "heading": "Build and sellresearchers, thoughtpartners, and agents",
+      "buttons": 9,
+      "geometricNodes": 0,
+      "fontReady": true,
+      "route": "custom-ai",
+      "pass": true
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "documentWidth": 390,
+      "mainWidth": 390,
+      "contentWidth": 390,
+      "mainX": 0,
+      "heading": "Where do we start?",
+      "buttons": 12,
+      "geometricNodes": 0,
+      "fontReady": true,
+      "route": "chat",
+      "pass": true
+    }
+  ],
+  "local_behavior_checks": [
+    {
+      "viewport": 1440,
+      "navigation": "Library",
+      "result": "pass"
+    },
+    {
+      "viewport": 1440,
+      "navigation": "Home",
+      "result": "pass"
+    },
+    {
+      "viewport": 1440,
+      "navigation": "Discover",
+      "result": "pass"
+    },
+    {
+      "viewport": 1440,
+      "navigation": "Home",
+      "result": "pass"
+    },
+    {
+      "viewport": 1440,
+      "navigation": "Custom AI",
+      "result": "pass"
+    },
+    {
+      "viewport": 1440,
+      "navigation": "Home",
+      "result": "pass"
+    },
+    {
+      "viewport": 1440,
+      "navigation": "Chat",
+      "result": "pass"
+    },
+    {
+      "viewport": 1440,
+      "navigation": "Home",
+      "result": "pass"
+    },
+    {
+      "viewport": 1440,
+      "search_empty_and_reset": "pass"
+    },
+    {
+      "viewport": 1440,
+      "local_composer_no_external_send": "pass"
+    },
+    {
+      "viewport": 1440,
+      "reduced_motion": "pass"
+    },
+    {
+      "viewport": 390,
+      "navigation": "Library",
+      "result": "pass"
+    },
+    {
+      "viewport": 390,
+      "navigation": "Home",
+      "result": "pass"
+    },
+    {
+      "viewport": 390,
+      "navigation": "Discover",
+      "result": "pass"
+    },
+    {
+      "viewport": 390,
+      "navigation": "Home",
+      "result": "pass"
+    },
+    {
+      "viewport": 390,
+      "navigation": "Custom AI",
+      "result": "pass"
+    },
+    {
+      "viewport": 390,
+      "navigation": "Home",
+      "result": "pass"
+    },
+    {
+      "viewport": 390,
+      "navigation": "Chat",
+      "result": "pass"
+    },
+    {
+      "viewport": 390,
+      "navigation": "Home",
+      "result": "pass"
+    },
+    {
+      "viewport": 390,
+      "search_empty_and_reset": "pass"
+    },
+    {
+      "viewport": 390,
+      "local_composer_no_external_send": "pass"
+    },
+    {
+      "viewport": 390,
+      "reduced_motion": "pass"
+    }
+  ],
+  "rebuild": "Separately authorized manual semantic rebuild after rejection; no additional automatic repair cycle",
+  "prior_trial": "TRIAL-RESULTS-before-visual-rebuild.json",
+  "source_defined_scout_claims_rechecked": 3,
+  "prior_provider_usage_summed_job_receipts": {
+    "input_tokens": 841669,
+    "output_tokens": 190725
+  }
+}

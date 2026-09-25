@@ -1,0 +1,22 @@
+[
+  {
+    "source_path": "/w/:workspace/home",
+    "target_path": "/w/local/home"
+  },
+  {
+    "source_path": "/w/:workspace/discover",
+    "target_path": "/w/local/discover"
+  },
+  {
+    "source_path": "/w/:workspace/all-items",
+    "target_path": "/w/local/all-items"
+  },
+  {
+    "source_path": "/w/:workspace/custom-ai",
+    "target_path": "/w/local/custom-ai"
+  },
+  {
+    "source_path": "/w/:workspace/chat",
+    "target_path": "/w/local/chat"
+  }
+]

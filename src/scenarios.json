@@ -1,0 +1,3474 @@
+{
+  "cfe4904ae3ec4242": {
+    "route": "home",
+    "width": 1440,
+    "height": 900,
+    "sidebar": true,
+    "controls": [
+      {
+        "id": "cmp_109208f52e4a8d72",
+        "label": "Create or search",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_4fe753ff4d52d28b",
+        "label": "Home",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_4ea09e4f535911d1",
+        "label": "Library",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_471406add823991c",
+        "label": "Discover",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_3a390380b318c023",
+        "label": "Custom AI",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_5a979b8d085be20e",
+        "label": "Publish",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_b0d3683c145c81a7",
+        "label": "Chat",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_bb1a746bccfe8362",
+        "label": "New chat",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_605cbcd5c97885b3",
+        "label": "Set up workspace",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_1c22686027974ac0",
+        "label": "New board",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_e4d0312a862eb385",
+        "label": "Dismiss until tomorrow",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_d587a4aeee760608",
+        "label": "Claim Offer",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_016e73a050768562",
+        "label": "Academy",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_62ffbf46fae1626c",
+        "label": "Your store",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_6d26acff9da3302b",
+        "label": "Close sidebar",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_660a1f470ccb61ab",
+        "label": "Collapse getting started",
+        "role": "button",
+        "disabled": false,
+        "expanded": "true"
+      },
+      {
+        "id": "cmp_576da69a9f2fe874",
+        "label": "Dismiss getting started",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_56149d0b6e0ab42c",
+        "label": "Dismiss workspace setup",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_7ef4a28a66cf14ea",
+        "label": "Capture: Save your first idea",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_bee7ac24e0ce8d90",
+        "label": "Discover: Find posts and ads that are working",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_342e9caf6abb4405",
+        "label": "Custom AI: Turn what you know into an AI expert",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_06a4495ed1281fb0",
+        "label": "Get the mobile app",
+        "role": "link",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_d4a81070c9da7879",
+        "label": "Add the Chrome extension",
+        "role": "link",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_3d65d572cf86be2a",
+        "label": "Get the desktop app",
+        "role": "link",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_38c4c677513ce528",
+        "label": "View recents",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      }
+    ]
+  },
+  "94cb4634d80448a2": {
+    "route": "home",
+    "width": 1440,
+    "height": 900,
+    "sidebar": true,
+    "controls": [
+      {
+        "id": "cmp_109208f52e4a8d72",
+        "label": "Create or search",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_4fe753ff4d52d28b",
+        "label": "Home",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_4ea09e4f535911d1",
+        "label": "Library",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_471406add823991c",
+        "label": "Discover",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_3a390380b318c023",
+        "label": "Custom AI",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_5a979b8d085be20e",
+        "label": "Publish",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_b0d3683c145c81a7",
+        "label": "Chat",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_bb1a746bccfe8362",
+        "label": "New chat",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_605cbcd5c97885b3",
+        "label": "Set up workspace",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_1c22686027974ac0",
+        "label": "New board",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_e4d0312a862eb385",
+        "label": "Dismiss until tomorrow",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_d587a4aeee760608",
+        "label": "Claim Offer",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_016e73a050768562",
+        "label": "Academy",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_62ffbf46fae1626c",
+        "label": "Your store",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_6d26acff9da3302b",
+        "label": "Close sidebar",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      }
+    ]
+  },
+  "4d26908d1a064a0d": {
+    "route": "discover",
+    "width": 1440,
+    "height": 900,
+    "sidebar": true,
+    "controls": [
+      {
+        "id": "cmp_84200cca6f8497c7",
+        "label": "Create or search",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_c9260965ca895e55",
+        "label": "Home",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_747473fe4ea13ec0",
+        "label": "Library",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_cb32f126c43d158c",
+        "label": "Discover",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_5095b26cf9ffd25e",
+        "label": "Open in Pane",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_60f761e69b6e7dd7",
+        "label": "Custom AI",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_c03751bc13e3e6e3",
+        "label": "Publish",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_0daae8035e329453",
+        "label": "Chat",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_718b615d880f6ab9",
+        "label": "New chat",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_e4fead74cfed4997",
+        "label": "Set up workspace",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_625bda3d4e7c8b80",
+        "label": "New board",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_0642fff676f658e7",
+        "label": "Dismiss until tomorrow",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_49baf582f7cb4a84",
+        "label": "Claim Offer",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_33961d5d455eca08",
+        "label": "Academy",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_805fae9aea016ac7",
+        "label": "Your store",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_16e30df9dc083bb2",
+        "label": "Close sidebar",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_8c093fbb7f280a90",
+        "label": "Search Discover \u2014 Starter and above",
+        "role": "textbox",
+        "disabled": true,
+        "expanded": null
+      },
+      {
+        "id": "cmp_2e27b16830186f98",
+        "label": "Learn how to unlock Discover search",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_65cf6c839425b281",
+        "label": "Open feed filters",
+        "role": "button",
+        "disabled": false,
+        "expanded": "false"
+      },
+      {
+        "id": "cmp_647e6fd7314c34ae",
+        "label": "Discover",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_02bebc120ba0c7fa",
+        "label": "Creators",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_8a42e7a2e8262f3b",
+        "label": "Brands",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_243b5c873485cbe9",
+        "label": "Lists",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_60edd7d1cdede4e3",
+        "label": "Posts",
+        "role": "tab",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_ee1f8cc94a7d3fa0",
+        "label": "Ads",
+        "role": "tab",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_a0ebcbd5b7bf5862",
+        "label": "Breakouts",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_63d92c41fe5deac7",
+        "label": "Hidden gems",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_1af1d2e02311f564",
+        "label": "Viral now",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_90b9528ce313d7f4",
+        "label": "All-time greats",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_931e1b64050e88c9",
+        "label": "Scroll chips right",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_37c498cbadd81728",
+        "label": "Hidden creators",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_a472582f204745ee",
+        "label": "Media only",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_5070144e4ef681f4",
+        "label": "Refresh feed",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_170a1d33dd883040",
+        "label": "Dismiss",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      }
+    ]
+  },
+  "13f6a8104bad48e4": {
+    "route": "discover",
+    "width": 1440,
+    "height": 900,
+    "sidebar": true,
+    "controls": [
+      {
+        "id": "cmp_84200cca6f8497c7",
+        "label": "Create or search",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_c9260965ca895e55",
+        "label": "Home",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_747473fe4ea13ec0",
+        "label": "Library",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_cb32f126c43d158c",
+        "label": "Discover",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_60f761e69b6e7dd7",
+        "label": "Custom AI",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_c03751bc13e3e6e3",
+        "label": "Publish",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_0daae8035e329453",
+        "label": "Chat",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_718b615d880f6ab9",
+        "label": "New chat",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_e4fead74cfed4997",
+        "label": "Set up workspace",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_625bda3d4e7c8b80",
+        "label": "New board",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_0642fff676f658e7",
+        "label": "Dismiss until tomorrow",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_49baf582f7cb4a84",
+        "label": "Claim Offer",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_33961d5d455eca08",
+        "label": "Academy",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_805fae9aea016ac7",
+        "label": "Your store",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_16e30df9dc083bb2",
+        "label": "Close sidebar",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_8c093fbb7f280a90",
+        "label": "Search Discover \u2014 Starter and above",
+        "role": "textbox",
+        "disabled": true,
+        "expanded": null
+      },
+      {
+        "id": "cmp_2e27b16830186f98",
+        "label": "Learn how to unlock Discover search",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_65cf6c839425b281",
+        "label": "Open feed filters",
+        "role": "button",
+        "disabled": false,
+        "expanded": "false"
+      },
+      {
+        "id": "cmp_647e6fd7314c34ae",
+        "label": "Discover",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_02bebc120ba0c7fa",
+        "label": "Creators",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_8a42e7a2e8262f3b",
+        "label": "Brands",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_243b5c873485cbe9",
+        "label": "Lists",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_60edd7d1cdede4e3",
+        "label": "Posts",
+        "role": "tab",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_ee1f8cc94a7d3fa0",
+        "label": "Ads",
+        "role": "tab",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_a0ebcbd5b7bf5862",
+        "label": "Breakouts",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_63d92c41fe5deac7",
+        "label": "Hidden gems",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_1af1d2e02311f564",
+        "label": "Viral now",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_90b9528ce313d7f4",
+        "label": "All-time greats",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_931e1b64050e88c9",
+        "label": "Scroll chips right",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_37c498cbadd81728",
+        "label": "Hidden creators",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_a472582f204745ee",
+        "label": "Media only",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_5070144e4ef681f4",
+        "label": "Refresh feed",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_170a1d33dd883040",
+        "label": "Dismiss",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      }
+    ]
+  },
+  "1767c54b16014b48": {
+    "route": "discover",
+    "width": 1440,
+    "height": 900,
+    "sidebar": false,
+    "controls": [
+      {
+        "id": "cmp_df81f8643797a6d8",
+        "label": "Open sidebar",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_7f1e43fab924b963",
+        "label": "Search Discover \u2014 Starter and above",
+        "role": "textbox",
+        "disabled": true,
+        "expanded": null
+      },
+      {
+        "id": "cmp_ad65dbf07a43c8fa",
+        "label": "Learn how to unlock Discover search",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_b75fcc6751541f04",
+        "label": "Open feed filters",
+        "role": "button",
+        "disabled": false,
+        "expanded": "false"
+      },
+      {
+        "id": "cmp_0aa989f1129e8449",
+        "label": "Discover",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_f608461ad32392f8",
+        "label": "Creators",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_1736e03c511c0514",
+        "label": "Brands",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_bdc83519662931d1",
+        "label": "Lists",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_2ec7b886bed3bd7e",
+        "label": "Posts",
+        "role": "tab",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_4cd6d392e1c01e90",
+        "label": "Ads",
+        "role": "tab",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_4e696fad2266743c",
+        "label": "Breakouts",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_b93081e663044083",
+        "label": "Hidden gems",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_3bcb5cf07c9bd07f",
+        "label": "Viral now",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_8f772dfb0ff90ea2",
+        "label": "All-time greats",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_e317c564d94e39f5",
+        "label": "Hidden creators",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_db4dde3a3d16fc85",
+        "label": "Media only",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_5e1bf25c0f95881d",
+        "label": "Refresh feed",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_3b290775e916cbad",
+        "label": "Dismiss",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      }
+    ]
+  },
+  "0e95c2c4ac3a4fe4": {
+    "route": "discover",
+    "width": 1440,
+    "height": 900,
+    "sidebar": false,
+    "controls": [
+      {
+        "id": "cmp_df81f8643797a6d8",
+        "label": "Open sidebar",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_7f1e43fab924b963",
+        "label": "Search Discover \u2014 Starter and above",
+        "role": "textbox",
+        "disabled": true,
+        "expanded": null
+      },
+      {
+        "id": "cmp_ad65dbf07a43c8fa",
+        "label": "Learn how to unlock Discover search",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_b75fcc6751541f04",
+        "label": "Open feed filters",
+        "role": "button",
+        "disabled": false,
+        "expanded": "false"
+      },
+      {
+        "id": "cmp_0aa989f1129e8449",
+        "label": "Discover",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_f608461ad32392f8",
+        "label": "Creators",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_1736e03c511c0514",
+        "label": "Brands",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_bdc83519662931d1",
+        "label": "Lists",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_2ec7b886bed3bd7e",
+        "label": "Posts",
+        "role": "tab",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_4cd6d392e1c01e90",
+        "label": "Ads",
+        "role": "tab",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_4e696fad2266743c",
+        "label": "Breakouts",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_b93081e663044083",
+        "label": "Hidden gems",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_3bcb5cf07c9bd07f",
+        "label": "Viral now",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_8f772dfb0ff90ea2",
+        "label": "All-time greats",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_e317c564d94e39f5",
+        "label": "Hidden creators",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_db4dde3a3d16fc85",
+        "label": "Media only",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_5e1bf25c0f95881d",
+        "label": "Refresh feed",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_3b290775e916cbad",
+        "label": "Dismiss",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      }
+    ]
+  },
+  "b94f3cd25a8747e8": {
+    "route": "home",
+    "width": 1440,
+    "height": 900,
+    "sidebar": false,
+    "controls": [
+      {
+        "id": "cmp_67b6ed8147622833",
+        "label": "Open sidebar",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      }
+    ]
+  },
+  "13a39c11347248d4": {
+    "route": "home",
+    "width": 1440,
+    "height": 900,
+    "sidebar": false,
+    "controls": [
+      {
+        "id": "cmp_67b6ed8147622833",
+        "label": "Open sidebar",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_a6f8257f38643c00",
+        "label": "Collapse getting started",
+        "role": "button",
+        "disabled": false,
+        "expanded": "true"
+      },
+      {
+        "id": "cmp_a684feb9d78f7fe2",
+        "label": "Dismiss getting started",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_b723a829e0ec54ce",
+        "label": "Dismiss workspace setup",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_8cb0951886d9c184",
+        "label": "Capture: Save your first idea",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_9d2d61423688a595",
+        "label": "Discover: Find posts and ads that are working",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_77689f6c7b02bd80",
+        "label": "Custom AI: Turn what you know into an AI expert",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_4a5b9377833510e3",
+        "label": "Get the mobile app",
+        "role": "link",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_eb2a5abcbae6f542",
+        "label": "Add the Chrome extension",
+        "role": "link",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_5142978afc5bcd8d",
+        "label": "Get the desktop app",
+        "role": "link",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_9aea188d411624d9",
+        "label": "View recents",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      }
+    ]
+  },
+  "af6aa9a9581f49d8": {
+    "route": "home",
+    "width": 1440,
+    "height": 900,
+    "sidebar": true,
+    "controls": [
+      {
+        "id": "cmp_109208f52e4a8d72",
+        "label": "Create or search",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_4fe753ff4d52d28b",
+        "label": "Home",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_4ea09e4f535911d1",
+        "label": "Library",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_471406add823991c",
+        "label": "Discover",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_3a390380b318c023",
+        "label": "Custom AI",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_5a979b8d085be20e",
+        "label": "Publish",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_b0d3683c145c81a7",
+        "label": "Chat",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_bb1a746bccfe8362",
+        "label": "New chat",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_605cbcd5c97885b3",
+        "label": "Set up workspace",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_1c22686027974ac0",
+        "label": "New board",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_e4d0312a862eb385",
+        "label": "Dismiss until tomorrow",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_d587a4aeee760608",
+        "label": "Claim Offer",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_016e73a050768562",
+        "label": "Academy",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_62ffbf46fae1626c",
+        "label": "Your store",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_6d26acff9da3302b",
+        "label": "Close sidebar",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_660a1f470ccb61ab",
+        "label": "Collapse getting started",
+        "role": "button",
+        "disabled": false,
+        "expanded": "true"
+      },
+      {
+        "id": "cmp_576da69a9f2fe874",
+        "label": "Dismiss getting started",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_56149d0b6e0ab42c",
+        "label": "Dismiss workspace setup",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_7ef4a28a66cf14ea",
+        "label": "Capture: Save your first idea",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_bee7ac24e0ce8d90",
+        "label": "Discover: Find posts and ads that are working",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_342e9caf6abb4405",
+        "label": "Custom AI: Turn what you know into an AI expert",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_06a4495ed1281fb0",
+        "label": "Get the mobile app",
+        "role": "link",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_d4a81070c9da7879",
+        "label": "Add the Chrome extension",
+        "role": "link",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_3d65d572cf86be2a",
+        "label": "Get the desktop app",
+        "role": "link",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_38c4c677513ce528",
+        "label": "View recents",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      }
+    ]
+  },
+  "99c484be1ee8491a": {
+    "route": "all-items",
+    "width": 1440,
+    "height": 900,
+    "sidebar": true,
+    "controls": [
+      {
+        "id": "cmp_605e4b1cf280faa8",
+        "label": "Create or search",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_54769ebbc0d878d2",
+        "label": "Home",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_ca7b429131e04fd2",
+        "label": "Library",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_da5cddf38a789a9b",
+        "label": "Open in Pane",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_3e1caf97357054e8",
+        "label": "Discover",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_af8eb3d5c5ec3d57",
+        "label": "Custom AI",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_d60cc8a7ab52d0bf",
+        "label": "Publish",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_ddcd3223aaaab0a4",
+        "label": "Chat",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_3e9a00029e91376b",
+        "label": "New chat",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_e2b5ee679f02dd86",
+        "label": "Set up workspace",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_17b4f0146b443b9c",
+        "label": "New board",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_c3b0f5a0d1daab71",
+        "label": "Dismiss until tomorrow",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_2dbb7ec52127be7b",
+        "label": "Claim Offer",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_2ae4c8a8fa52fcc7",
+        "label": "Academy",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_9750c109da2145b0",
+        "label": "Your store",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_2d74ab3dde5872a5",
+        "label": "Close sidebar",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_f4dd99a7c1d30257",
+        "label": "Grid view",
+        "role": "tab",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_4af9634ac726161f",
+        "label": "Graph view",
+        "role": "tab",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_4ab3f97da29c6ace",
+        "label": "Index view",
+        "role": "tab",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_ba8f8ae6931c4421",
+        "label": "New",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_8a87196c68d9103c",
+        "label": "Search all workspace items",
+        "role": "textbox",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_dae887f70b33137e",
+        "label": "Ask Eden instead",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_3d4310a786fd3d72",
+        "label": "Filter Library",
+        "role": "button",
+        "disabled": false,
+        "expanded": "false"
+      },
+      {
+        "id": "cmp_d6dd377d5a320119",
+        "label": "Recents",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_fa480ef6a2fdd7e5",
+        "label": "Grid view",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_b0e2cc0d357a9b3e",
+        "label": "List view",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_70620f9cf9b9876e",
+        "label": "Sources view",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_1c8170b5ef9c79cd",
+        "label": "Kindle",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_6219a60ec4d9bda8",
+        "label": "Readwise",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_0577e968e1a3768a",
+        "label": "Chrome extension",
+        "role": "link",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_9cb07bc37e66dacd",
+        "label": "Dismiss",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_32955352c8ffc74d",
+        "label": "Open Welcome to Eden",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      }
+    ]
+  },
+  "3103f0ee9cff419c": {
+    "route": "home",
+    "width": 1440,
+    "height": 900,
+    "sidebar": true,
+    "controls": [
+      {
+        "id": "cmp_109208f52e4a8d72",
+        "label": "Create or search",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_4fe753ff4d52d28b",
+        "label": "Home",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_ed6a782e6742c965",
+        "label": "Open in Pane",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_4ea09e4f535911d1",
+        "label": "Library",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_471406add823991c",
+        "label": "Discover",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_3a390380b318c023",
+        "label": "Custom AI",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_5a979b8d085be20e",
+        "label": "Publish",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_b0d3683c145c81a7",
+        "label": "Chat",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_bb1a746bccfe8362",
+        "label": "New chat",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_605cbcd5c97885b3",
+        "label": "Set up workspace",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_1c22686027974ac0",
+        "label": "New board",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_e4d0312a862eb385",
+        "label": "Dismiss until tomorrow",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_d587a4aeee760608",
+        "label": "Claim Offer",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_016e73a050768562",
+        "label": "Academy",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_62ffbf46fae1626c",
+        "label": "Your store",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_6d26acff9da3302b",
+        "label": "Close sidebar",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_660a1f470ccb61ab",
+        "label": "Collapse getting started",
+        "role": "button",
+        "disabled": false,
+        "expanded": "true"
+      },
+      {
+        "id": "cmp_576da69a9f2fe874",
+        "label": "Dismiss getting started",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_56149d0b6e0ab42c",
+        "label": "Dismiss workspace setup",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_7ef4a28a66cf14ea",
+        "label": "Capture: Save your first idea",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_bee7ac24e0ce8d90",
+        "label": "Discover: Find posts and ads that are working",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_342e9caf6abb4405",
+        "label": "Custom AI: Turn what you know into an AI expert",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_06a4495ed1281fb0",
+        "label": "Get the mobile app",
+        "role": "link",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_d4a81070c9da7879",
+        "label": "Add the Chrome extension",
+        "role": "link",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_3d65d572cf86be2a",
+        "label": "Get the desktop app",
+        "role": "link",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_38c4c677513ce528",
+        "label": "View recents",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      }
+    ]
+  },
+  "e1f675fb620541b7": {
+    "route": "custom-ai",
+    "width": 1440,
+    "height": 900,
+    "sidebar": true,
+    "controls": [
+      {
+        "id": "cmp_b62d18c964053774",
+        "label": "Create or search",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_6bcd45ffc8d432a9",
+        "label": "Home",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_68395a609ab804c0",
+        "label": "Library",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_01755be73f9d9650",
+        "label": "Discover",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_68036d761bcf7e82",
+        "label": "Custom AI",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_b51dd8fa50ddc9f6",
+        "label": "Open in Pane",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_6582d0a8e807f077",
+        "label": "Publish",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_0c603abb318c9e46",
+        "label": "Chat",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_eb028c56575e057a",
+        "label": "New chat",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_59a604df8704a98c",
+        "label": "Set up workspace",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_c79f973070af1b2c",
+        "label": "New board",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_1e54869eb6380e9a",
+        "label": "Dismiss until tomorrow",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_33a80a9fc523ddf2",
+        "label": "Claim Offer",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_e9b64455055a3f70",
+        "label": "Academy",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_c853b24968786290",
+        "label": "Your store",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_aef370c7366745ca",
+        "label": "Close sidebar",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_1ab029c6272ce4ad",
+        "label": "Your store",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      }
+    ]
+  },
+  "130b181ba9e84cf4": {
+    "route": "chat",
+    "width": 1440,
+    "height": 900,
+    "sidebar": true,
+    "controls": [
+      {
+        "id": "cmp_1be5c47bf2a648b9",
+        "label": "Create or search",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_af3710594d16478f",
+        "label": "Home",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_163ebf545df3419d",
+        "label": "Library",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_e275fcebd71a813e",
+        "label": "Discover",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_18c1d42ee4839645",
+        "label": "Custom AI",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_b062aaab611b8872",
+        "label": "Publish",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_1ac25ee7f45ccb5b",
+        "label": "Chat",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_66e8af57cb9aee38",
+        "label": "Open in Pane",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_e85770ee067c4572",
+        "label": "New chat",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_e52b18c3c3365337",
+        "label": "Set up workspace",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_216bbb5e6f27b3bc",
+        "label": "New board",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_abba816c5db8b1d1",
+        "label": "Dismiss until tomorrow",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_ec70b86f25f1f6b5",
+        "label": "Claim Offer",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_8832d9fa5c58e135",
+        "label": "Academy",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_30836aeef35746dc",
+        "label": "Your store",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_91ea1ed46a368c2c",
+        "label": "Close sidebar",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_4378522d70bd2660",
+        "label": "New chat",
+        "role": "button",
+        "disabled": false,
+        "expanded": "false"
+      },
+      {
+        "id": "cmp_2e13c10367b87efa",
+        "label": "New chat",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      }
+    ]
+  },
+  "7a1b9806d73e45ff": {
+    "route": "all-items",
+    "width": 1440,
+    "height": 900,
+    "sidebar": true,
+    "controls": [
+      {
+        "id": "cmp_605e4b1cf280faa8",
+        "label": "Create or search",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_54769ebbc0d878d2",
+        "label": "Home",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_ca7b429131e04fd2",
+        "label": "Library",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_3e1caf97357054e8",
+        "label": "Discover",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_af8eb3d5c5ec3d57",
+        "label": "Custom AI",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_d60cc8a7ab52d0bf",
+        "label": "Publish",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_ddcd3223aaaab0a4",
+        "label": "Chat",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_3e9a00029e91376b",
+        "label": "New chat",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_e2b5ee679f02dd86",
+        "label": "Set up workspace",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_17b4f0146b443b9c",
+        "label": "New board",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_c3b0f5a0d1daab71",
+        "label": "Dismiss until tomorrow",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_2dbb7ec52127be7b",
+        "label": "Claim Offer",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_2ae4c8a8fa52fcc7",
+        "label": "Academy",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_9750c109da2145b0",
+        "label": "Your store",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_2d74ab3dde5872a5",
+        "label": "Close sidebar",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_f4dd99a7c1d30257",
+        "label": "Grid view",
+        "role": "tab",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_4af9634ac726161f",
+        "label": "Graph view",
+        "role": "tab",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_4ab3f97da29c6ace",
+        "label": "Index view",
+        "role": "tab",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_ba8f8ae6931c4421",
+        "label": "New",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_8a87196c68d9103c",
+        "label": "Search all workspace items",
+        "role": "textbox",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_dae887f70b33137e",
+        "label": "Ask Eden instead",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_3d4310a786fd3d72",
+        "label": "Filter Library",
+        "role": "button",
+        "disabled": false,
+        "expanded": "false"
+      },
+      {
+        "id": "cmp_d6dd377d5a320119",
+        "label": "Recents",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_fa480ef6a2fdd7e5",
+        "label": "Grid view",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_b0e2cc0d357a9b3e",
+        "label": "List view",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_70620f9cf9b9876e",
+        "label": "Sources view",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_1c8170b5ef9c79cd",
+        "label": "Kindle",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_6219a60ec4d9bda8",
+        "label": "Readwise",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_0577e968e1a3768a",
+        "label": "Chrome extension",
+        "role": "link",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_9cb07bc37e66dacd",
+        "label": "Dismiss",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_32955352c8ffc74d",
+        "label": "Open Welcome to Eden",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      }
+    ]
+  },
+  "75522dff307243a2": {
+    "route": "home",
+    "width": 390,
+    "height": 844,
+    "sidebar": false,
+    "controls": [
+      {
+        "id": "cmp_067948c26157daed",
+        "label": "Open sidebar",
+        "role": "button",
+        "disabled": false,
+        "expanded": "false"
+      },
+      {
+        "id": "cmp_660a1f470ccb61ab",
+        "label": "Collapse getting started",
+        "role": "button",
+        "disabled": false,
+        "expanded": "true"
+      },
+      {
+        "id": "cmp_576da69a9f2fe874",
+        "label": "Dismiss getting started",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_56149d0b6e0ab42c",
+        "label": "Dismiss workspace setup",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_7ef4a28a66cf14ea",
+        "label": "Capture: Save your first idea",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_bee7ac24e0ce8d90",
+        "label": "Discover: Find posts and ads that are working",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_342e9caf6abb4405",
+        "label": "Custom AI: Turn what you know into an AI expert",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_06a4495ed1281fb0",
+        "label": "Get the mobile app",
+        "role": "link",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_d4a81070c9da7879",
+        "label": "Add the Chrome extension",
+        "role": "link",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_3d65d572cf86be2a",
+        "label": "Get the desktop app",
+        "role": "link",
+        "disabled": false,
+        "expanded": null
+      }
+    ]
+  },
+  "0fc8354d59c54ba1": {
+    "route": "home",
+    "width": 390,
+    "height": 844,
+    "sidebar": true,
+    "controls": [
+      {
+        "id": "cmp_94613bb72bd191bc",
+        "label": "Close sidebar",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_925c7a351eaa36ad",
+        "label": "Create or search",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_34e28ce64235114c",
+        "label": "Home",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_62ba89cae9371c1f",
+        "label": "Library",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_4010435d12963532",
+        "label": "Discover",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_558a92b764529cd6",
+        "label": "Custom AI",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_e9ee2bcbe1edb3f5",
+        "label": "Publish",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_1e59ca7c6f632830",
+        "label": "Chat",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_b4f4dc5c18b4c144",
+        "label": "Create board or space",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_a081b1d71e75cfdd",
+        "label": "Set up workspace",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_e530081dcec869f0",
+        "label": "New board",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_15e0b260aae91886",
+        "label": "Dismiss until tomorrow",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_4f5bd2c27b8f1b2a",
+        "label": "Claim Offer",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_0129b2b3462ee7cd",
+        "label": "Academy",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_fed774e4db7848e8",
+        "label": "Your store",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_c2023e24a1c36a19",
+        "label": "Close sidebar",
+        "role": "button",
+        "disabled": false,
+        "expanded": "true"
+      },
+      {
+        "id": "cmp_a6f8257f38643c00",
+        "label": "Collapse getting started",
+        "role": "button",
+        "disabled": false,
+        "expanded": "true"
+      },
+      {
+        "id": "cmp_a684feb9d78f7fe2",
+        "label": "Dismiss getting started",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_b723a829e0ec54ce",
+        "label": "Dismiss workspace setup",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_8cb0951886d9c184",
+        "label": "Capture: Save your first idea",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_9d2d61423688a595",
+        "label": "Discover: Find posts and ads that are working",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_77689f6c7b02bd80",
+        "label": "Custom AI: Turn what you know into an AI expert",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_4a5b9377833510e3",
+        "label": "Get the mobile app",
+        "role": "link",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_eb2a5abcbae6f542",
+        "label": "Add the Chrome extension",
+        "role": "link",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_5142978afc5bcd8d",
+        "label": "Get the desktop app",
+        "role": "link",
+        "disabled": false,
+        "expanded": null
+      }
+    ]
+  },
+  "bd7e25f116db4df6": {
+    "route": "all-items",
+    "width": 390,
+    "height": 844,
+    "sidebar": true,
+    "controls": [
+      {
+        "id": "cmp_86e7cff92f2e8c57",
+        "label": "Close sidebar",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_5ab3de0bac44408c",
+        "label": "Create or search",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_7aca76550ec4681d",
+        "label": "Home",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_723d058cbea00f80",
+        "label": "Library",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_8fcd4e2bfd9718e4",
+        "label": "Open in Pane",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_669d53b1eb63da44",
+        "label": "Discover",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_6918976cf6679e24",
+        "label": "Custom AI",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_4e0231694843e2b8",
+        "label": "Publish",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_16de93ddf8ff64be",
+        "label": "Chat",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_99a54648804594e3",
+        "label": "Create board or space",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_07171979ad7112f7",
+        "label": "Set up workspace",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_e3cd6ec3ff51470c",
+        "label": "New board",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_29570caa710a2cfc",
+        "label": "Dismiss until tomorrow",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_3dea454c46793d9b",
+        "label": "Claim Offer",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_c5761c4cdc197b0c",
+        "label": "Academy",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_f02cf89de5eccf6e",
+        "label": "Your store",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_32484c2b622b9407",
+        "label": "Close sidebar",
+        "role": "button",
+        "disabled": false,
+        "expanded": "true"
+      },
+      {
+        "id": "cmp_b38284d05c454dcf",
+        "label": "Grid view",
+        "role": "tab",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_f61f790df2730066",
+        "label": "Graph view",
+        "role": "tab",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_74a9648accb718f7",
+        "label": "Index view",
+        "role": "tab",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_0672575eba0e201d",
+        "label": "New",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_1b306f17d124bc3e",
+        "label": "Search all workspace items",
+        "role": "textbox",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_ee84b59c4c21cc14",
+        "label": "Ask Eden instead",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_736fc15a91a80891",
+        "label": "Filter Library",
+        "role": "button",
+        "disabled": false,
+        "expanded": "false"
+      },
+      {
+        "id": "cmp_5ea53e24468cfa1a",
+        "label": "Recents",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_dc070ac8b36b8e88",
+        "label": "Grid view",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_d85c2f819103302f",
+        "label": "List view",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_c0ce94d41b241353",
+        "label": "Sources view",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_de02928b9922c387",
+        "label": "Kindle",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_692b9aedef37b1ca",
+        "label": "Readwise",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_fb2d85c202fd889b",
+        "label": "Chrome extension",
+        "role": "link",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_fefdfed1150ef682",
+        "label": "Dismiss",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_c1a5ab45d3b0f5c4",
+        "label": "Open Welcome to Eden",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      }
+    ]
+  },
+  "647dc839ad7f4a8f": {
+    "route": "home",
+    "width": 1440,
+    "height": 900,
+    "sidebar": true,
+    "controls": [
+      {
+        "id": "cmp_109208f52e4a8d72",
+        "label": "Create or search",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_4fe753ff4d52d28b",
+        "label": "Home",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_4ea09e4f535911d1",
+        "label": "Library",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_471406add823991c",
+        "label": "Discover",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_3a390380b318c023",
+        "label": "Custom AI",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_5a979b8d085be20e",
+        "label": "Publish",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_b0d3683c145c81a7",
+        "label": "Chat",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_bb1a746bccfe8362",
+        "label": "New chat",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_605cbcd5c97885b3",
+        "label": "Set up workspace",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_1c22686027974ac0",
+        "label": "New board",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_e4d0312a862eb385",
+        "label": "Dismiss until tomorrow",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_d587a4aeee760608",
+        "label": "Claim Offer",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_016e73a050768562",
+        "label": "Academy",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_62ffbf46fae1626c",
+        "label": "Your store",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_6d26acff9da3302b",
+        "label": "Close sidebar",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_660a1f470ccb61ab",
+        "label": "Collapse getting started",
+        "role": "button",
+        "disabled": false,
+        "expanded": "true"
+      },
+      {
+        "id": "cmp_576da69a9f2fe874",
+        "label": "Dismiss getting started",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_56149d0b6e0ab42c",
+        "label": "Dismiss workspace setup",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_7ef4a28a66cf14ea",
+        "label": "Capture: Save your first idea",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_bee7ac24e0ce8d90",
+        "label": "Discover: Find posts and ads that are working",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_342e9caf6abb4405",
+        "label": "Custom AI: Turn what you know into an AI expert",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_06a4495ed1281fb0",
+        "label": "Get the mobile app",
+        "role": "link",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_d4a81070c9da7879",
+        "label": "Add the Chrome extension",
+        "role": "link",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_3d65d572cf86be2a",
+        "label": "Get the desktop app",
+        "role": "link",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_38c4c677513ce528",
+        "label": "View recents",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      }
+    ]
+  },
+  "8a6c35d4200645d8": {
+    "route": "all-items",
+    "width": 1440,
+    "height": 900,
+    "sidebar": true,
+    "controls": [
+      {
+        "id": "cmp_605e4b1cf280faa8",
+        "label": "Create or search",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_54769ebbc0d878d2",
+        "label": "Home",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_ca7b429131e04fd2",
+        "label": "Library",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_da5cddf38a789a9b",
+        "label": "Open in Pane",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_3e1caf97357054e8",
+        "label": "Discover",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_af8eb3d5c5ec3d57",
+        "label": "Custom AI",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_d60cc8a7ab52d0bf",
+        "label": "Publish",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_ddcd3223aaaab0a4",
+        "label": "Chat",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_3e9a00029e91376b",
+        "label": "New chat",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_e2b5ee679f02dd86",
+        "label": "Set up workspace",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_17b4f0146b443b9c",
+        "label": "New board",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_c3b0f5a0d1daab71",
+        "label": "Dismiss until tomorrow",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_2dbb7ec52127be7b",
+        "label": "Claim Offer",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_2ae4c8a8fa52fcc7",
+        "label": "Academy",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_9750c109da2145b0",
+        "label": "Your store",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_2d74ab3dde5872a5",
+        "label": "Close sidebar",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_f4dd99a7c1d30257",
+        "label": "Grid view",
+        "role": "tab",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_4af9634ac726161f",
+        "label": "Graph view",
+        "role": "tab",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_4ab3f97da29c6ace",
+        "label": "Index view",
+        "role": "tab",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_ba8f8ae6931c4421",
+        "label": "New",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_8a87196c68d9103c",
+        "label": "Search all workspace items",
+        "role": "textbox",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_dae887f70b33137e",
+        "label": "Ask Eden instead",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_3d4310a786fd3d72",
+        "label": "Filter Library",
+        "role": "button",
+        "disabled": false,
+        "expanded": "false"
+      },
+      {
+        "id": "cmp_d6dd377d5a320119",
+        "label": "Recents",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_fa480ef6a2fdd7e5",
+        "label": "Grid view",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_b0e2cc0d357a9b3e",
+        "label": "List view",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_70620f9cf9b9876e",
+        "label": "Sources view",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_1c8170b5ef9c79cd",
+        "label": "Kindle",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_6219a60ec4d9bda8",
+        "label": "Readwise",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_0577e968e1a3768a",
+        "label": "Chrome extension",
+        "role": "link",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_9cb07bc37e66dacd",
+        "label": "Dismiss",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_32955352c8ffc74d",
+        "label": "Open Welcome to Eden",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      }
+    ]
+  },
+  "d9153a777ae34800": {
+    "route": "home",
+    "width": 1440,
+    "height": 900,
+    "sidebar": true,
+    "controls": [
+      {
+        "id": "cmp_109208f52e4a8d72",
+        "label": "Create or search",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_4fe753ff4d52d28b",
+        "label": "Home",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_ed6a782e6742c965",
+        "label": "Open in Pane",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_4ea09e4f535911d1",
+        "label": "Library",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_471406add823991c",
+        "label": "Discover",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_3a390380b318c023",
+        "label": "Custom AI",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_5a979b8d085be20e",
+        "label": "Publish",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_b0d3683c145c81a7",
+        "label": "Chat",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_bb1a746bccfe8362",
+        "label": "New chat",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_605cbcd5c97885b3",
+        "label": "Set up workspace",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_1c22686027974ac0",
+        "label": "New board",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_e4d0312a862eb385",
+        "label": "Dismiss until tomorrow",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_d587a4aeee760608",
+        "label": "Claim Offer",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_016e73a050768562",
+        "label": "Academy",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_62ffbf46fae1626c",
+        "label": "Your store",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_6d26acff9da3302b",
+        "label": "Close sidebar",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_660a1f470ccb61ab",
+        "label": "Collapse getting started",
+        "role": "button",
+        "disabled": false,
+        "expanded": "true"
+      },
+      {
+        "id": "cmp_576da69a9f2fe874",
+        "label": "Dismiss getting started",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_56149d0b6e0ab42c",
+        "label": "Dismiss workspace setup",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_7ef4a28a66cf14ea",
+        "label": "Capture: Save your first idea",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_bee7ac24e0ce8d90",
+        "label": "Discover: Find posts and ads that are working",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_342e9caf6abb4405",
+        "label": "Custom AI: Turn what you know into an AI expert",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_06a4495ed1281fb0",
+        "label": "Get the mobile app",
+        "role": "link",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_d4a81070c9da7879",
+        "label": "Add the Chrome extension",
+        "role": "link",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_3d65d572cf86be2a",
+        "label": "Get the desktop app",
+        "role": "link",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_38c4c677513ce528",
+        "label": "View recents",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      }
+    ]
+  },
+  "f553cbf4f99e441c": {
+    "route": "custom-ai",
+    "width": 1440,
+    "height": 900,
+    "sidebar": true,
+    "controls": [
+      {
+        "id": "cmp_b62d18c964053774",
+        "label": "Create or search",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_6bcd45ffc8d432a9",
+        "label": "Home",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_68395a609ab804c0",
+        "label": "Library",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_01755be73f9d9650",
+        "label": "Discover",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_68036d761bcf7e82",
+        "label": "Custom AI",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_b51dd8fa50ddc9f6",
+        "label": "Open in Pane",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_6582d0a8e807f077",
+        "label": "Publish",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_0c603abb318c9e46",
+        "label": "Chat",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_eb028c56575e057a",
+        "label": "New chat",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_59a604df8704a98c",
+        "label": "Set up workspace",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_c79f973070af1b2c",
+        "label": "New board",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_1e54869eb6380e9a",
+        "label": "Dismiss until tomorrow",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_33a80a9fc523ddf2",
+        "label": "Claim Offer",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_e9b64455055a3f70",
+        "label": "Academy",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_c853b24968786290",
+        "label": "Your store",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_aef370c7366745ca",
+        "label": "Close sidebar",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      },
+      {
+        "id": "cmp_1ab029c6272ce4ad",
+        "label": "Your store",
+        "role": "button",
+        "disabled": false,
+        "expanded": null
+      }
+    ]
+  }
+}

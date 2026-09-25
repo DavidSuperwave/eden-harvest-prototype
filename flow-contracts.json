@@ -1,0 +1,455 @@
+[
+  {
+    "entry_state": "94cb4634d80448a2",
+    "preconditions": [
+      "Same account, data, viewport and configuration as capture"
+    ],
+    "steps": [
+      "b2d30a2fc9f74c95"
+    ],
+    "terminal_transition": "b2d30a2fc9f74c95",
+    "outcome_state": "4d26908d1a064a0d",
+    "branches": [],
+    "recovery_transitions": [],
+    "restoration": "unresolved",
+    "group": "unknown",
+    "group_status": "inferred",
+    "graph_preserved": true,
+    "sequence_observed": true
+  },
+  {
+    "entry_state": "94cb4634d80448a2",
+    "preconditions": [
+      "Same account, data, viewport and configuration as capture"
+    ],
+    "steps": [
+      "b2d30a2fc9f74c95",
+      "89f5fa8dc911421a"
+    ],
+    "terminal_transition": "89f5fa8dc911421a",
+    "outcome_state": "4d26908d1a064a0d",
+    "branches": [
+      "c5170ab520ab40a0",
+      "61d01b6b1ce64f16"
+    ],
+    "recovery_transitions": [
+      "89f5fa8dc911421a"
+    ],
+    "restoration": "observed",
+    "group": "unknown",
+    "group_status": "inferred",
+    "graph_preserved": true,
+    "sequence_observed": true
+  },
+  {
+    "entry_state": "94cb4634d80448a2",
+    "preconditions": [
+      "Same account, data, viewport and configuration as capture"
+    ],
+    "steps": [
+      "b2d30a2fc9f74c95",
+      "c5170ab520ab40a0"
+    ],
+    "terminal_transition": "c5170ab520ab40a0",
+    "outcome_state": "13f6a8104bad48e4",
+    "branches": [
+      "89f5fa8dc911421a",
+      "61d01b6b1ce64f16"
+    ],
+    "recovery_transitions": [
+      "de2dcc46f3b94572"
+    ],
+    "restoration": "observed",
+    "group": "unknown",
+    "group_status": "inferred",
+    "graph_preserved": true,
+    "sequence_observed": false
+  },
+  {
+    "entry_state": "94cb4634d80448a2",
+    "preconditions": [
+      "Same account, data, viewport and configuration as capture"
+    ],
+    "steps": [
+      "b2d30a2fc9f74c95",
+      "c5170ab520ab40a0",
+      "de2dcc46f3b94572"
+    ],
+    "terminal_transition": "de2dcc46f3b94572",
+    "outcome_state": "4d26908d1a064a0d",
+    "branches": [],
+    "recovery_transitions": [
+      "c5170ab520ab40a0"
+    ],
+    "restoration": "observed",
+    "group": "unknown",
+    "group_status": "inferred",
+    "graph_preserved": true,
+    "sequence_observed": false
+  },
+  {
+    "entry_state": "94cb4634d80448a2",
+    "preconditions": [
+      "Same account, data, viewport and configuration as capture"
+    ],
+    "steps": [
+      "b2d30a2fc9f74c95",
+      "61d01b6b1ce64f16"
+    ],
+    "terminal_transition": "61d01b6b1ce64f16",
+    "outcome_state": "1767c54b16014b48",
+    "branches": [
+      "89f5fa8dc911421a",
+      "c5170ab520ab40a0"
+    ],
+    "recovery_transitions": [],
+    "restoration": "unresolved",
+    "group": "unknown",
+    "group_status": "inferred",
+    "graph_preserved": true,
+    "sequence_observed": false
+  },
+  {
+    "entry_state": "94cb4634d80448a2",
+    "preconditions": [
+      "Same account, data, viewport and configuration as capture"
+    ],
+    "steps": [
+      "b2d30a2fc9f74c95",
+      "61d01b6b1ce64f16",
+      "4a36d0c4b821440f"
+    ],
+    "terminal_transition": "4a36d0c4b821440f",
+    "outcome_state": "0e95c2c4ac3a4fe4",
+    "branches": [],
+    "recovery_transitions": [],
+    "restoration": "unresolved",
+    "group": "unknown",
+    "group_status": "inferred",
+    "graph_preserved": true,
+    "sequence_observed": false
+  },
+  {
+    "entry_state": "94cb4634d80448a2",
+    "preconditions": [
+      "Same account, data, viewport and configuration as capture"
+    ],
+    "steps": [
+      "b2d30a2fc9f74c95",
+      "61d01b6b1ce64f16",
+      "4a36d0c4b821440f",
+      "f4120831e3974a64"
+    ],
+    "terminal_transition": "f4120831e3974a64",
+    "outcome_state": "0e95c2c4ac3a4fe4",
+    "branches": [],
+    "recovery_transitions": [
+      "f4120831e3974a64"
+    ],
+    "restoration": "observed",
+    "group": "unknown",
+    "group_status": "inferred",
+    "graph_preserved": true,
+    "sequence_observed": false
+  },
+  {
+    "entry_state": "13a39c11347248d4",
+    "preconditions": [
+      "Same account, data, viewport and configuration as capture"
+    ],
+    "steps": [
+      "280902d5ff4e4492"
+    ],
+    "terminal_transition": "280902d5ff4e4492",
+    "outcome_state": "af6aa9a9581f49d8",
+    "branches": [],
+    "recovery_transitions": [],
+    "restoration": "unresolved",
+    "group": "unknown",
+    "group_status": "inferred",
+    "graph_preserved": true,
+    "sequence_observed": true
+  },
+  {
+    "entry_state": "af6aa9a9581f49d8",
+    "preconditions": [
+      "Same account, data, viewport and configuration as capture"
+    ],
+    "steps": [
+      "46ecce503b5740a9"
+    ],
+    "terminal_transition": "46ecce503b5740a9",
+    "outcome_state": "99c484be1ee8491a",
+    "branches": [],
+    "recovery_transitions": [],
+    "restoration": "unresolved",
+    "group": "unknown",
+    "group_status": "inferred",
+    "graph_preserved": true,
+    "sequence_observed": true
+  },
+  {
+    "entry_state": "99c484be1ee8491a",
+    "preconditions": [
+      "Same account, data, viewport and configuration as capture"
+    ],
+    "steps": [
+      "71a08e69d8f3461b"
+    ],
+    "terminal_transition": "71a08e69d8f3461b",
+    "outcome_state": "3103f0ee9cff419c",
+    "branches": [],
+    "recovery_transitions": [],
+    "restoration": "unresolved",
+    "group": "unknown",
+    "group_status": "inferred",
+    "graph_preserved": true,
+    "sequence_observed": true
+  },
+  {
+    "entry_state": "3103f0ee9cff419c",
+    "preconditions": [
+      "Same account, data, viewport and configuration as capture"
+    ],
+    "steps": [
+      "c1991fa6965643ea"
+    ],
+    "terminal_transition": "c1991fa6965643ea",
+    "outcome_state": "e1f675fb620541b7",
+    "branches": [
+      "c417f7a57e7f48d3",
+      "0b7a8efad8024499"
+    ],
+    "recovery_transitions": [
+      "99f5b7090dcb4cdb"
+    ],
+    "restoration": "observed",
+    "group": "unknown",
+    "group_status": "inferred",
+    "graph_preserved": true,
+    "sequence_observed": true
+  },
+  {
+    "entry_state": "e1f675fb620541b7",
+    "preconditions": [
+      "Same account, data, viewport and configuration as capture"
+    ],
+    "steps": [
+      "99f5b7090dcb4cdb"
+    ],
+    "terminal_transition": "99f5b7090dcb4cdb",
+    "outcome_state": "3103f0ee9cff419c",
+    "branches": [],
+    "recovery_transitions": [
+      "c1991fa6965643ea"
+    ],
+    "restoration": "observed",
+    "group": "unknown",
+    "group_status": "inferred",
+    "graph_preserved": true,
+    "sequence_observed": true
+  },
+  {
+    "entry_state": "3103f0ee9cff419c",
+    "preconditions": [
+      "Same account, data, viewport and configuration as capture"
+    ],
+    "steps": [
+      "c417f7a57e7f48d3"
+    ],
+    "terminal_transition": "c417f7a57e7f48d3",
+    "outcome_state": "130b181ba9e84cf4",
+    "branches": [
+      "c1991fa6965643ea",
+      "0b7a8efad8024499"
+    ],
+    "recovery_transitions": [
+      "a2bbfebae6f24a07"
+    ],
+    "restoration": "observed",
+    "group": "unknown",
+    "group_status": "inferred",
+    "graph_preserved": true,
+    "sequence_observed": true
+  },
+  {
+    "entry_state": "130b181ba9e84cf4",
+    "preconditions": [
+      "Same account, data, viewport and configuration as capture"
+    ],
+    "steps": [
+      "a2bbfebae6f24a07"
+    ],
+    "terminal_transition": "a2bbfebae6f24a07",
+    "outcome_state": "3103f0ee9cff419c",
+    "branches": [],
+    "recovery_transitions": [
+      "c417f7a57e7f48d3"
+    ],
+    "restoration": "observed",
+    "group": "unknown",
+    "group_status": "inferred",
+    "graph_preserved": true,
+    "sequence_observed": true
+  },
+  {
+    "entry_state": "3103f0ee9cff419c",
+    "preconditions": [
+      "Same account, data, viewport and configuration as capture"
+    ],
+    "steps": [
+      "0b7a8efad8024499"
+    ],
+    "terminal_transition": "0b7a8efad8024499",
+    "outcome_state": "7a1b9806d73e45ff",
+    "branches": [
+      "c1991fa6965643ea",
+      "c417f7a57e7f48d3"
+    ],
+    "recovery_transitions": [],
+    "restoration": "unresolved",
+    "group": "unknown",
+    "group_status": "inferred",
+    "graph_preserved": true,
+    "sequence_observed": true
+  },
+  {
+    "entry_state": "75522dff307243a2",
+    "preconditions": [
+      "Same account, data, viewport and configuration as capture"
+    ],
+    "steps": [
+      "5ee1efd12904432a"
+    ],
+    "terminal_transition": "5ee1efd12904432a",
+    "outcome_state": "0fc8354d59c54ba1",
+    "branches": [],
+    "recovery_transitions": [],
+    "restoration": "unresolved",
+    "group": "unknown",
+    "group_status": "inferred",
+    "graph_preserved": true,
+    "sequence_observed": true
+  },
+  {
+    "entry_state": "75522dff307243a2",
+    "preconditions": [
+      "Same account, data, viewport and configuration as capture"
+    ],
+    "steps": [
+      "5ee1efd12904432a",
+      "9b94dfb3beb64ea4"
+    ],
+    "terminal_transition": "9b94dfb3beb64ea4",
+    "outcome_state": "bd7e25f116db4df6",
+    "branches": [],
+    "recovery_transitions": [],
+    "restoration": "unresolved",
+    "group": "unknown",
+    "group_status": "inferred",
+    "graph_preserved": true,
+    "sequence_observed": true
+  },
+  {
+    "entry_state": "75522dff307243a2",
+    "preconditions": [
+      "Same account, data, viewport and configuration as capture"
+    ],
+    "steps": [
+      "5ee1efd12904432a",
+      "9b94dfb3beb64ea4",
+      "b421751128f24a27"
+    ],
+    "terminal_transition": "b421751128f24a27",
+    "outcome_state": "75522dff307243a2",
+    "branches": [],
+    "recovery_transitions": [],
+    "restoration": "unresolved",
+    "group": "unknown",
+    "group_status": "inferred",
+    "graph_preserved": true,
+    "sequence_observed": true
+  },
+  {
+    "entry_state": "647dc839ad7f4a8f",
+    "preconditions": [
+      "Same account, data, viewport and configuration as capture"
+    ],
+    "steps": [
+      "50a4c5d798224414"
+    ],
+    "terminal_transition": "50a4c5d798224414",
+    "outcome_state": "8a6c35d4200645d8",
+    "branches": [],
+    "recovery_transitions": [],
+    "restoration": "unresolved",
+    "group": "unknown",
+    "group_status": "inferred",
+    "graph_preserved": true,
+    "sequence_observed": true
+  },
+  {
+    "entry_state": "647dc839ad7f4a8f",
+    "preconditions": [
+      "Same account, data, viewport and configuration as capture"
+    ],
+    "steps": [
+      "50a4c5d798224414",
+      "547bb80a3b7a42d9"
+    ],
+    "terminal_transition": "547bb80a3b7a42d9",
+    "outcome_state": "d9153a777ae34800",
+    "branches": [],
+    "recovery_transitions": [],
+    "restoration": "unresolved",
+    "group": "unknown",
+    "group_status": "inferred",
+    "graph_preserved": true,
+    "sequence_observed": true
+  },
+  {
+    "entry_state": "647dc839ad7f4a8f",
+    "preconditions": [
+      "Same account, data, viewport and configuration as capture"
+    ],
+    "steps": [
+      "50a4c5d798224414",
+      "547bb80a3b7a42d9",
+      "5812ee8901554c3f"
+    ],
+    "terminal_transition": "5812ee8901554c3f",
+    "outcome_state": "f553cbf4f99e441c",
+    "branches": [],
+    "recovery_transitions": [
+      "396cbf155fb64d62"
+    ],
+    "restoration": "observed",
+    "group": "unknown",
+    "group_status": "inferred",
+    "graph_preserved": true,
+    "sequence_observed": true
+  },
+  {
+    "entry_state": "647dc839ad7f4a8f",
+    "preconditions": [
+      "Same account, data, viewport and configuration as capture"
+    ],
+    "steps": [
+      "50a4c5d798224414",
+      "547bb80a3b7a42d9",
+      "5812ee8901554c3f",
+      "396cbf155fb64d62"
+    ],
+    "terminal_transition": "396cbf155fb64d62",
+    "outcome_state": "d9153a777ae34800",
+    "branches": [],
+    "recovery_transitions": [
+      "5812ee8901554c3f"
+    ],
+    "restoration": "observed",
+    "group": "unknown",
+    "group_status": "inferred",
+    "graph_preserved": true,
+    "sequence_observed": true
+  }
+]

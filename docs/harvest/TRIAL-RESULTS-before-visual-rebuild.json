@@ -1,0 +1,87 @@
+{
+  "run": "acab5f68226f",
+  "status": "visual-trial-failed",
+  "prototype_content_hash": "e46134d65e5be01ead00046ef0c547b992521e295afeb867999b6c9a5ce8a4a6",
+  "coverage": {
+    "routes": 5,
+    "states": 21,
+    "captured_controls": 651,
+    "implemented": 117,
+    "excluded": 0,
+    "unresolved": 534
+  },
+  "dimensions": {
+    "visual": {
+      "status": "fail",
+      "checks": {
+        "pass": 270708,
+        "fail": 22427,
+        "inconclusive": 11725
+      },
+      "human_approval": "Separate exact-content-hash and scope record required"
+    },
+    "interaction": {
+      "status": "fail",
+      "checks": {
+        "pass": 12574,
+        "fail": 51
+      }
+    },
+    "motion": {
+      "status": "inconclusive",
+      "checks": {
+        "inconclusive": 41
+      }
+    }
+  },
+  "navigation_consequences": {
+    "pass": 41
+  },
+  "mismatches": {
+    "fontFamily": 13569,
+    "paddingRight": 2328,
+    "paddingLeft": 2306,
+    "marginTop": 684,
+    "marginBottom": 258,
+    "marginLeft": 172,
+    "paddingTop": 1248,
+    "paddingBottom": 1306,
+    "role": 51,
+    "borderColor": 51,
+    "marginRight": 103,
+    "lineHeight": 217,
+    "fontSize": 157,
+    "component-geometry": 28
+  },
+  "benchmark": {
+    "baseline": {
+      "median_seconds": 4.148058874998242,
+      "snapshots": 13,
+      "round_trips": 70
+    },
+    "release": {
+      "median_seconds": 3.9672814999939874,
+      "snapshots": 5,
+      "round_trips": 54
+    },
+    "same_control_coverage": true,
+    "trial_actions": 4,
+    "method": "One warmup and three measured detailed-motion trials per version; identical fixture, viewport and four local actions. No provider latency included."
+  },
+  "jobs": {
+    "controls:complete": 100,
+    "claim:complete": 76
+  },
+  "provider_usage_summed_job_receipts": {
+    "input_tokens": 841669,
+    "output_tokens": 190725
+  },
+  "provider_models": [
+    "jev-1.13.0"
+  ],
+  "job_retries": 0,
+  "live_typesafe_match": "deef6fb26920",
+  "repair_cycles_completed": 2,
+  "human_visual_approval": false,
+  "backend_implemented": false
+}
